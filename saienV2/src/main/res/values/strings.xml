@@ -1,0 +1,45 @@
+<resources>
+
+    <string name="app_name">菜園ナビ記録</string>
+    <string name="iv_description">ImageView default</string>
+    <string name="required">必須</string>
+    <string name="login_username">ユーザー</string>
+    <string name="login_password">パスワード</string>
+    <string name="login_signin">ログイン</string>
+    <string name="login_register"> 新規登録</string>
+    <string name="login_forgot"><u>パスワードを忘れた場合</u></string>
+    <string name="login_copyright">Copyright © 2014 菜園ナビ</string>
+    <string name="error_no_internet">インターネットに接続できません。</string>
+    <string name="error_server">サーバーにエラーが起きました</string>
+    <string name="error_password">パスワードは正しくありません</string>
+    <string name="error_sdcard">SDメモリは利用できません</string>
+    <string name="error_no_photo">写真は必須です</string>
+    <string name="info">情報</string>
+    <string name="name">名前</string>
+    <string name="home">ホーム</string>
+    <string name="album">アルバム</string>
+    <string name="saien">菜園</string>
+    <string name="blog">ブログ</string>
+    <string name="planting_guide">栽培教本</string>
+    <string name="choose_photo">写真を選択</string>
+    <string name="journal_composite">%1$sの記録</string>
+    <string name="publish">投稿</string>
+    <string name="take_photo">写真を撮る</string>
+    <string name="comment_wanted">みんなにコメントを募集する</string>
+    <string name="comment_on">コメント禁止</string>
+    <string name="blog_posted">投稿が完了しました</string>
+    <string name="register_project_a">作物を登録する</string>
+    <string name="register_project_b">菜園ナビWebサイトへ</string>
+    <string name="pest_status">病害虫発生状況</string>
+
+    <string-array name="options_comment">
+        <item>みんなにコメントを募集する</item>
+        <item>コメント禁止</item>
+    </string-array>
+    <string-array name="options_cropstatus">
+        <item>なし</item>
+        <item>病気の疑い</item>
+        <item>虫の疑い</item>
+    </string-array>
+
+</resources>

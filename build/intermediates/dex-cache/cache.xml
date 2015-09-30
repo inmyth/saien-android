@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="M:\android\projects\SaienApp\saienV2\libs\android-query-full.0.25.10.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="646ad6432a4da6a827e74ce64149c719ce7e86eb">
+        <dex dex="M:\android\projects\SaienApp\saienV2\build\intermediates\pre-dexed\debug\android-query-full.0.25.10-34d60c92561e01a22dfd1ee5b8fb6e1e39e3b354.jar" />
+    </item>
+    <item
+        jar="M:\android\projects\SaienApp\saienV2\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="M:\android\projects\SaienApp\saienV2\build\intermediates\pre-dexed\debug\classes-d70ed52d22768565512545e1d00effca57e26dae.jar" />
+    </item>
+    <item
+        jar="M:\android\projects\SaienApp\saienV2\libs\retrofit-1.6.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="efb0a36546aa8857ab8df358b106c1817e03cbee">
+        <dex dex="M:\android\projects\SaienApp\saienV2\build\intermediates\pre-dexed\debug\retrofit-1.6.1-fe600e33db459a32b5b6318850eb3ce666973b71.jar" />
+    </item>
+    <item
+        jar="M:\android\projects\SaienApp\saienV2\libs\volley-1.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="15cb25c4fe6d811ad371bb45f9e0c84b117f1018">
+        <dex dex="M:\android\projects\SaienApp\saienV2\build\intermediates\pre-dexed\debug\volley-1.0.2-d467c5e63eddca67f2d07906722c28bafecfa0df.jar" />
+    </item>
+    <item
+        jar="M:\android\projects\SaienApp\saienV2\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="M:\android\projects\SaienApp\saienV2\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-880ed2090ba5b3bac0d0a6bbb6d65764953dfdfa.jar" />
+    </item>
+    <item
+        jar="M:\android\projects\SaienApp\saienV2\libs\acra-4.2.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="83a53ff90fccbbf7a8e901fc05df3ceb6e0cef8d">
+        <dex dex="M:\android\projects\SaienApp\saienV2\build\intermediates\pre-dexed\debug\acra-4.2.3-e5153c6869f936b7b491d526829a469b1fb9b303.jar" />
+    </item>
+    <item
+        jar="M:\android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="M:\android\projects\SaienApp\saienV2\build\intermediates\pre-dexed\debug\support-v4-19.1.0-b71b844056a50a3d1dd2686b405dc5355e74b2e1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Martin\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="M:\android\projects\SaienApp\saienV2\build\intermediates\pre-dexed\debug\gson-2.2.4-22e49ef7a3837889b3fe069bc8126824df1602a5.jar" />
+    </item>
+    <item
+        jar="M:\android\projects\SaienApp\saienV2\build\intermediates\exploded-aar\SaienApp\lib_crouton\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f05b47c79aafeea4b82ec023ebee6684792d3cb6">
+        <dex dex="M:\android\projects\SaienApp\saienV2\build\intermediates\pre-dexed\debug\classes-dba3615ece9fadae916876e21c0c45516b77b939.jar" />
+    </item>
+    <item
+        jar="M:\android\projects\SaienApp\saienV2\libs\android-async-http-1.4.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="77bf7cacf9cefe19dc105e5425d2eb1bb5285881">
+        <dex dex="M:\android\projects\SaienApp\saienV2\build\intermediates\pre-dexed\debug\android-async-http-1.4.5-40a9b323e00fa31d174f47fc0054087add69ac03.jar" />
+    </item>
+
+</items>

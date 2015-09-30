@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" >
+        
+        <shape>
+            <stroke android:width="5px" android:color="#669D24" />
+            <gradient
+                android:endColor="#669D24"
+                android:startColor="#A7C559"
+                android:angle="90"
+                android:type="linear" />
+            <corners android:radius="10dp" />
+
+        </shape>
+    </item>
+
+    <item>     
+
+        <shape>
+            <stroke android:width="5px" android:color="#669D24" />
+            <gradient
+                android:endColor="#669D24"
+                android:startColor="#A7C559"
+                android:angle="270"
+                android:type="linear" />
+            <corners android:radius="10dp" />
+
+        </shape>
+    </item>
+</selector><!-- From: file:/M:/android/projects/SaienApp/saienV2/src/main/res/drawable/button_green.xml -->
